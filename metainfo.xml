@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<presentation availableOffline="1" guid="EBB358FE-0663-4B26-87F0-3FA5BA63B6B8" version="0">
+	<info>
+		<title>2023-10-19-REVIEW_SHEET_PHYSICS_XII-25</title>
+		<description/>
+	</info>
+	<files index="id26" thumbnail="id22" totalSize="2547472">
+		<file id="id0">data/apple-touch-icon.png</file>
+		<file id="id1">data/browsersupport.js</file>
+		<file id="id2">data/favicon.ico</file>
+		<file id="id3">data/fonts/fnt0.woff</file>
+		<file id="id4">data/fonts/fnt1.woff</file>
+		<file id="id5">data/fonts/fnt2.woff</file>
+		<file id="id6">data/fonts/fnt3.woff</file>
+		<file id="id7">data/fonts/fnt4.woff</file>
+		<file id="id8">data/html5-unsupported.html</file>
+		<file id="id9">data/images/img-0f302569f0af0405c8f90a0a871c72e95f7282ab.png</file>
+		<file id="id10">data/images/img-441050221bc961508868511eea23cd157fc46f5d.jpg</file>
+		<file id="id11">data/images/img-4c1ed46cb57bfaadf280b11d6c95eb64e9724e64.jpg</file>
+		<file id="id12">data/images/img-5ea715c1d04f5b599911bc4866e4ac89feb20ed8.png</file>
+		<file id="id13">data/images/img-74a12330634e512895961c6eef8ebc0d0a5304d6.jpg</file>
+		<file id="id14">data/images/img-8b70f2e36d8391c33490ca94fda8f00d0b0bb5fe.png</file>
+		<file id="id15">data/images/img-9ce88cd5dc75c190df137abbcf5a52b516551477.png</file>
+		<file id="id16">data/images/img-9d2b516478edf4618a17ab222388c6d551256418.png</file>
+		<file id="id17">data/images/img-b23b0efdad71019098bb0d5182678160d38b8776.jpg</file>
+		<file id="id18">data/images/img-ee935590136a3da99f8616951178c8fd215553d6.png</file>
+		<file id="id19">data/images/img-eeac7ce7af43396dbf39f8e30240cb05f8929ad4.png</file>
+		<file id="id20">data/ismplayer/app_store2x.png</file>
+		<file id="id21">data/ismplayer/play.svg</file>
+		<file id="id22">data/ismplayer/preview.png</file>
+		<file id="id23">data/ismplayer/style.css</file>
+		<file id="id24">data/ismplayer/style_mini.css</file>
+		<file id="id25">data/player.js</file>
+		<file id="id26">index.html</file>
+		<file id="id27">ismplayer.html</file>
+		<file id="id28">preview.png</file>
+	</files>
+</presentation>
+
